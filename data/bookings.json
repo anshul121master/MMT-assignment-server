@@ -1,0 +1,62 @@
+[
+    {
+      "hotelId": "HT101",
+      "name": "Hotel BlueBerry",
+      "image": "images/hotels/blueberry.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT102",
+      "name": "Hotel Radisson Blu",
+      "image": "images/hotels/radisson-blu.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT103",
+      "name": "Hotel Central View",
+      "image": "images/hotels/hotel-central-view.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT104",
+      "name": "Hotel Hadimba Way",
+      "image": "images/hotels/hotel-hadimba-way.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT105",
+      "name": "Hotel Mountain Top",
+      "image": "images/hotels/hotel-mountain-top.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT106",
+      "name": "Honeymoon Inn, Manali",
+      "image": "images/hotels/hotel-honeymooninn.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT107",
+      "name": "Hotel Nirmal Chaya",
+      "image": "images/hotels/hotel-nirmal-chaya.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT108",
+      "name": "Apple Blossom",
+      "image": "images/hotels/hotel-apple-blossom.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT109",
+      "name": "Hotel Premier",
+      "image": "images/hotels/hotel-premier.jpg",
+      "bookings": []
+    },
+    {
+      "hotelId": "HT110",
+      "name": "Hotel Mountain Valley",
+      "image": "images/hotels/hotel-mountain-valley.jpg",
+      "bookings": []
+    }
+  ]

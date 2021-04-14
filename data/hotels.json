@@ -1,0 +1,142 @@
+[
+    {
+      "hotelId": "HT101",
+      "name": "Hotel BlueBerry",
+      "address": "Manali, 250m from mall road",
+      "rating": "4.5",
+      "totalRatings": 20,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1000 INR",
+      "image": "images/hotels/blueberry.jpg"
+    },
+    {
+      "hotelId": "HT102",
+      "name": "Hotel Radisson Blu",
+      "address": "1.8km from city center",
+      "rating": "4.5",
+      "totalRatings": 30,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "3000 INR",
+      "image": "images/hotels/radisson-blu.jpg"
+    },
+    {
+      "hotelId": "HT103",
+      "name": "Hotel Central View",
+      "address": "5km from Hidamba Devi Temple",
+      "rating": "4.0",
+      "totalRatings": 50,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1500 INR",
+      "image": "images/hotels/hotel-central-view.jpg"
+    },
+    {
+      "hotelId": "HT104",
+      "name": "Hotel Hadimba Way",
+      "address": "Hotel in Old Manali",
+      "rating": "3.8",
+      "totalRatings": 100,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "850 INR",
+      "image": "images/hotels/hotel-hadimba-way.jpg"
+    },
+    {
+      "hotelId": "HT105",
+      "name": "Hotel Mountain Top",
+      "address": "Manali, 250m from mall road",
+      "rating": "4.5",
+      "totalRatings": 20,
+      "services": [
+        "Free wifi",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1350 INR",
+      "image": "images/hotels/hotel-mountain-top.jpg"
+    },
+    {
+      "hotelId": "HT106",
+      "name": "Honeymoon Inn, Manali",
+      "address": "Aleo, Manali",
+      "rating": "5.0",
+      "totalRatings": 50,
+      "services": [
+        "Free wifi",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "3000 INR",
+      "image": "images/hotels/hotel-honeymooninn.jpg"
+    },
+    {
+      "hotelId": "HT107",
+      "name": "Hotel Nirmal Chaya",
+      "address": "Hotel in New Manali",
+      "rating": "4.5",
+      "totalRatings": 20,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1000 INR",
+      "image": "images/hotels/hotel-nirmal-chaya.jpg"
+    },
+    {
+      "hotelId": "HT108",
+      "name": "Apple Blossom",
+      "address": "Manali, 250m from mall road",
+      "rating": "4.5",
+      "totalRatings": 35,
+      "services": [
+        "Free wifi",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1200 INR",
+      "image": "images/hotels/hotel-apple-blossom.jpg"
+    },
+    {
+      "hotelId": "HT109",
+      "name": "Hotel Premier",
+      "address": "Near Hadimba Devi Temple",
+      "rating": "3.8",
+      "totalRatings": 40,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "750 INR",
+      "image": "images/hotels/hotel-premier.jpg"
+    },
+    {
+      "hotelId": "HT110",
+      "name": "Hotel Mountain Valley",
+      "address": "Near mall road.",
+      "rating": "4.5",
+      "totalRatings": 20,
+      "services": [
+        "Doctor on call",
+        "Complimentary Breakfast",
+        "Tours and Treks"
+      ],
+      "price": "1000 INR",
+      "image": "images/hotels/hotel-mountain-valley.jpg"
+    }
+  ]
